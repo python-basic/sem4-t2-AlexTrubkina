@@ -3,5 +3,6 @@
 
 [Лабораторная работа](https://repl.it/@AlieksandraTrub/Diekoratory)
 
-ИСР 
+ИСР
+
 [Калькулятор](https://repl.it/@AlieksandraTrub/Kalkuliator-ISR-po-proghrammirovaniiu-Diekortatory)
